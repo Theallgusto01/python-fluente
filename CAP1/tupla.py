@@ -2,6 +2,7 @@
 Tuplas são utilizadas para armazenar multiplos itens em uma única variável
 Itens de uma tupla são ordenados, imutáveis e permitem valores duplicados
 Pode conter tipos diferentes de itens
+
 """
 
 
