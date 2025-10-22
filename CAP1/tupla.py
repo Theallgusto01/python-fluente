@@ -32,3 +32,11 @@ tupla = tuple(("maça", 123, False))
 
 print(tupla)
 print(type(tupla))
+
+lista = ['maçã', 'banana', 'abacate']
+
+print(reversed(lista))
+tupla = reversed(tupla)
+
+print(type(tupla))
+print(type(lista))
