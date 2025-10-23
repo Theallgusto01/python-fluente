@@ -40,3 +40,10 @@ tupla = reversed(tupla)
 
 print(type(tupla))
 print(type(lista))
+
+
+tupla = ("maçã",)
+# Tuplas com um único elemento devem ser criadas com uma vírgula no final
+
+print(tupla)
+print(type(tupla))
